@@ -1545,3 +1545,9 @@ section {
     height:180px;
   }
 }
+
+marquee {
+  background: none;
+  font-size: 1.5rem!important;
+  color: white;
+  font-weight: bold;}

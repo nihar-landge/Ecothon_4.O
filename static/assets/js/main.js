@@ -316,5 +316,34 @@ function handleScroll() {
 
 window.addEventListener('scroll', handleScroll);
 
+// Handling Marquee
+function stopMarquee() {
+  var marquee = document.getElementsByTagName('marquee')[0];
+  marquee.stop();
+}
+
+function startMarquee() {
+  var marquee = document.getElementsByTagName('marquee')[0];
+  marquee.start();
+}
+
+var marquee = document.getElementsByTagName('marquee')[0];
+marquee.onmouseover = stopMarquee;
+marquee.onmouseout = startMarquee;
+
+function fetchTextFromDrive(){
+  fetch("https://raw.githubusercontent.com/nihar-landge/ecothon_4.O/main/static/assets/news.txt")
+  .then(response => response.text())
+  .then(data => {
+    // Set the content of the div element to the fetched text
+    document.getElementById("mrq").textContent = data;
+  })
+  .catch(error => console.error(error));
+
+}
+
+fetchTextFromDrive();
+
+
                         
                         
