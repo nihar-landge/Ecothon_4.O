@@ -1551,3 +1551,40 @@ marquee {
   font-size: 1.5rem!important;
   color: white;
   font-weight: bold;}
+
+
+
+  .containerTeam {
+    background-color: #0f0f0f;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+h2 {
+    color: #aaa;
+    margin-bottom: 20px;
+}
+.team-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    text-align: left;
+}
+.team-member {
+    background-color: #222;
+    padding: 15px;
+    border-radius: 8px;
+}
+.team-member h3 {
+    margin: 0;
+    color: #fff;
+    font-size: 1.1em;
+}
+.team-member p {
+    margin: 5px 0;
+    font-size: 0.9em;
+}
+.team-member a {
+    color: #4da6ff;
+    text-decoration: none;
+}
