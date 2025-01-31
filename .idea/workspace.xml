@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cf425b2-b83d-4843-9570-6118a968b835" name="Changes" comment="" />
+    <list default="true" id="1cf425b2-b83d-4843-9570-6118a968b835" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +59,7 @@
       <recent name="$PROJECT_DIR$/static/assets" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Ecothon_4.O">
     <configuration name="Ecothon_4.O" type="PythonConfigurationType" factoryName="Python">
       <module name="Ecothon_4.O" />
       <option name="ENV_FILES" value="" />
@@ -78,6 +81,22 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ecothon_4.O" type="Python.FlaskServer">
+      <module name="Ecothon_4.O" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
       <method v="2" />
     </configuration>
   </component>
@@ -105,7 +124,9 @@
       <workItem from="1737602705676" duration="700000" />
       <workItem from="1737612279084" duration="8000" />
       <workItem from="1737612312582" duration="2604000" />
-      <workItem from="1738239069564" duration="688000" />
+      <workItem from="1738239069564" duration="996000" />
+      <workItem from="1738255797112" duration="2137000" />
+      <workItem from="1738297875648" duration="927000" />
     </task>
     <servers />
   </component>
