@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cf425b2-b83d-4843-9570-6118a968b835" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_01_25,_5_46 PM_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
@@ -56,10 +57,12 @@
       <recent name="$PROJECT_DIR$/static/assets/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/static/assets" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Ecothon_4.O">
+  <component name="RunManager" selected="Flask server.Ecothon_4.O">
     <configuration name="Ecothon_4.O" type="PythonConfigurationType" factoryName="Python">
       <module name="Ecothon_4.O" />
       <option name="ENV_FILES" value="" />
@@ -103,8 +106,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
-        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-PY-243.23654.177" />
+        <option value="bundled-python-sdk-91d3a02ef49d-43b77aa2d136-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.23654.177" />
       </set>
     </attachedChunks>
   </component>
@@ -126,7 +129,8 @@
       <workItem from="1737612312582" duration="2604000" />
       <workItem from="1738239069564" duration="996000" />
       <workItem from="1738255797112" duration="2137000" />
-      <workItem from="1738297875648" duration="927000" />
+      <workItem from="1738297875648" duration="2392000" />
+      <workItem from="1739339420277" duration="897000" />
     </task>
     <servers />
   </component>
