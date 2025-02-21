@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cf425b2-b83d-4843-9570-6118a968b835" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_01_25,_5_46 PM_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/news.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/news.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,6 +130,9 @@
       <workItem from="1738255797112" duration="2137000" />
       <workItem from="1738297875648" duration="2392000" />
       <workItem from="1739339420277" duration="897000" />
+      <workItem from="1739344598612" duration="631000" />
+      <workItem from="1739847345032" duration="1158000" />
+      <workItem from="1740109599985" duration="357000" />
     </task>
     <servers />
   </component>
